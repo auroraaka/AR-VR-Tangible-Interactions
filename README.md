@@ -6,3 +6,6 @@ Programmed computer vision algorithms in Python to detect AruCo codes inside a c
 Mapped object movements to play:
 - [Konterball](https://konterball.com/) in a web XR environment using 2D-to-3D conversion system assisted by PyAutoGUI (Software>Konterball).
 - [Fruit Ninja](https://github.com/zigurous/unity-fruit-ninja-tutorial) in a wired PC-VR environment using C# scripts in Unity (Sofware>Fruit_Ninja). 
+
+# Demo
+[Unlocking the Secret of BrightMarker: 3D Printed Fluorescent Markers for Object Tracking](https://www.youtube.com/watch?v=M5YNR6cVIiM)
