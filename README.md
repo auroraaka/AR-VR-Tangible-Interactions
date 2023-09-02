@@ -7,6 +7,5 @@ Mapped object movements to play:
 - [Konterball](https://konterball.com/) in a web XR environment using 2D-to-3D conversion system assisted by PyAutoGUI (Software>Konterball).
 - [Fruit Ninja](https://github.com/zigurous/unity-fruit-ninja-tutorial) in a wired PC-VR environment using C# scripts in Unity (Sofware>Fruit_Ninja). 
 
-# Demo
+# Demo Video Link
 [Unlocking the Secret of BrightMarker: 3D Printed Fluorescent Markers for Object Tracking](https://www.youtube.com/watch?v=M5YNR6cVIiM)
-YouTube: https://www.youtube.com/watch?v=M5YNR6cVIiM
