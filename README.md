@@ -8,8 +8,8 @@ Mapped object movements to play:
 - [Fruit Ninja](https://github.com/zigurous/unity-fruit-ninja-tutorial) in a wired PC-VR environment using C# scripts in Unity (Sofware>Fruit_Ninja). 
 
 # Publication
-Citation:
+Citation:  
 Mustafa Doga Dogan, Raul Garcia-Martin, Patrick William Haertel, Jamison John O’Keefe, Ahmad Taka, Akarsh Aurora, Raul Sanchez-Reillo, and Stefanie Mueller. 2023. BrightMarker: 3D Printed Fluorescent Markers for Object Tracking. In The 36th Annual ACM Symposium on User Interface Software and Technology (UIST ’23), October 29–November 01, 2023, San Francisco, CA, USA. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3586183. 3606758
 
-Demo Video Link:
+Demo Video Link:  
 Unlocking the Secret of BrightMarker: 3D Printed Fluorescent Markers for Object Tracking (https://www.youtube.com/watch?v=M5YNR6cVIiM)
