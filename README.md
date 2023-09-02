@@ -9,3 +9,4 @@ Mapped object movements to play:
 
 # Demo
 [Unlocking the Secret of BrightMarker: 3D Printed Fluorescent Markers for Object Tracking](https://www.youtube.com/watch?v=M5YNR6cVIiM)
+YouTube: https://www.youtube.com/watch?v=M5YNR6cVIiM
