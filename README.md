@@ -9,7 +9,7 @@ Mapped object movements to play:
 
 # Quick Links
 __**ACM UIST Citation:**__  
-Mustafa Doga Dogan, Raul Garcia-Martin, Patrick William Haertel, Jamison John O’Keefe, Ahmad Taka, Akarsh Aurora, Raul Sanchez-Reillo, and Stefanie Mueller. 2023. BrightMarker: 3D Printed Fluorescent Markers for Object Tracking. In The 36th Annual ACM Symposium on User Interface Software and Technology (UIST ’23), October 29–November 01, 2023, San Francisco, CA, USA. ACM, New York, NY, USA, 13 pages. https://doi.org/10.1145/3586183. 3606758
+Mustafa Doga Dogan, Raul Garcia-Martin, Patrick William Haertel, Jamison John O'Keefe, Ahmad Taka, Akarsh Aurora, Raul Sanchez-Reillo, and Stefanie Mueller. 2023. BrightMarker: 3D Printed Fluorescent Markers for Object Tracking. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23). Association for Computing Machinery, New York, NY, USA, Article 55, 1–13. https://doi.org/10.1145/3586183.3606758
 
 __**Demo Video:**__    
 Unlocking the Secret of BrightMarker: 3D Printed Fluorescent Markers for Object Tracking (https://www.youtube.com/watch?v=M5YNR6cVIiM)
